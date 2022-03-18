@@ -1,0 +1,26 @@
+
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Augusto Sérgio Alves','08891827010','1980-10-03T03:54:43Z',3500.0,1, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Aurora Eloá Sophia Gomes','23194135023','2003-05-10T20:23:25Z',2600.0,0, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Felipe Gustavo Erick Assunção','32716985200','1989-07-12T21:28:45Z',8345.0,2, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Jorge Erick Aparício','21610352904','1994-05-28T05:15:33Z',2700.0,3, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Larissa Stella Sarah da Conceição','51432516213','2004-07-23T21:51:06Z',985.0,1, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Aparecida Patrícia Porto','95355541909','2000-09-22T20:41:55Z',10345.0,3, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Francisco Geraldo Cláudio Barros','51739672186','1982-05-28T01:23:49Z',593.0,4, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Bianca Adriana Baptista','54463636981','2006-07-07T22:14:06Z',32567.0,2, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Luan Enzo Nelson Melo','57896104121','1993-04-18T22:33:28Z',4328.8,1, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Pedro Henrique Benjamin Caldeira','45785321270','1985-10-29T17:08:22Z',3764.9,2, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Melissa Olivia Brito','75108117590','1987-10-21T09:36:05Z',32167.3,3, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Lorena Silvana Olivia Jesus','62531012265','2009-05-23T03:13:25Z',43567.0,4, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Geraldo Lucas Novaes','25076338830','2000-08-12T06:10:17Z',234.5,5, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Raquel Eliane Freitas','34635065219','1984-04-29T09:25:17Z',5678.3,2, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Anderson Vitor Márcio da Mota','78310498608','1990-07-15T00:42:40Z',4325.5,1, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Malu Priscila Mirella Costa','54827250499','1981-09-30T14:39:19Z',4852.6,2, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Adriana Caroline Souza','43280800080','1990-11-11T06:26:50Z',2981.7,3, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Rosângela Larissa Viana','68747416084','2002-09-15T23:11:15Z',3421.4,3, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Sara Lúcia Ribeiro','83680744366','1995-02-25T23:42:37Z',4165.5,2, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Hugo Igor Miguel da Cruz','68453749965','1985-08-28T03:09:02Z',6872.4,1, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Alícia Raquel Fernandes','16815442373','2021-06-22T12:37:57Z',3521.3,1, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Felipe Carlos Eduardo Rodrigues','51726972763','1994-01-11T19:54:43Z',5462.3,2, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Iago Filipe Ruan Santos','94425283945','2019-05-06T18:40:34Z',7373.5,3, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Mário Luís Almada','05043016329','1994-10-18T10:52:00Z',9545.1,2, NOW());
+INSERT INTO tb_client(name,cpf,birth_date,income,children,created_at) VALUES ('Antônia Beatriz Isabelly Martins','90312166150','2012-09-23T03:12:27Z',7657.5,1, NOW());
